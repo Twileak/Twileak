@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am soon to be gradute of Applied Mathematics in Bialystok university of technology.<br>I have recently finished internship in IT firm, where my main task where working with SQL, SSIS and creating domestic website for the firm.<br>Currently I'm writing my thesis on  application of Traveling Salesman Problem (which is solved by genetic algorithms).<br>In my free time I am trying to learn more about python, AI and vue.js
+I am soon to be gradute of Applied Mathematics in Bialystok university of technology.<br>I have recently finished internship in IT firm, where my main task where working with SQL, SSIS and creating domestic website for the firm.<br>Currently I'm writing my thesis on  application of Traveling Salesman Problem (which is solved by genetic algorithms in Python).<br>In my free time I am trying to learn more about python, AI and vue.js
 
 
 # 💻 Tech Stack:
